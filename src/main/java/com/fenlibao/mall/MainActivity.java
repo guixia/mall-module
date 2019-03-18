@@ -8,6 +8,9 @@ import com.alibaba.android.arouter.launcher.ARouter;
 import com.fenlibao.common.base.BaseActivity;
 import com.fenlibao.common.base.RoutePath;
 
+/**
+ * 0318-1433
+ */
 @Route(path = RoutePath.MALL_1_URL_MAIN)
 public class MainActivity extends BaseActivity {
 
